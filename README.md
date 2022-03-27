@@ -18,3 +18,21 @@ list of steps and deliverables:
 	- The percent of total fares.
 	- The percent of total rides.
 	- The percent of total drivers.
+	
+	
+
+Deliverable 1: A ride-sharing summary DataFrame by city type
+Deliverable 2: A multiple-line chart of total fares for each city type
+Deliverable 3: A written report for the PyBer analysis (README.md)
+
+## Overview of Analysis
+
+
+## Results
+
+There is a description of the differences in ride-sharing data among the different city types. 
+![Pyber Summary Table](/analysis/PyBer_summary_table.png)
+
+## Summary
+
+There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types
